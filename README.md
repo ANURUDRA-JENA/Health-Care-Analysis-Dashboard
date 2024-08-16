@@ -22,3 +22,24 @@ Solutions at the forefront of healthcare analytics.
 10. **TotalBill**: The total bill amount for the patient's treatment.
 11. **Full Prescription Details**: Detailed prescription information including medication names, dosages, frequency, and duration
 
+<a href = "https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Ffile.notion.so%2Ff%2Ff%2Fd1e1bc70-9ede-4c69-84fd-42c5605803a0%2F78856dc5-afc4-4b4d-a42d-f75a0affd3d7%2FHealthcareDataset2.xlsx%3Ftable%3Dblock%26id%3D73ff38d8-63e6-4408-9271-876fdc8b54e1%26spaceId%3Dd1e1bc70-9ede-4c69-84fd-42c5605803a0%26expirationTimestamp%3D1723874400000%26signature%3DIzQksbLcem9EMhFBsoOxzhwfkZdzdgOjktnHdpnoLIs%26downloadName%3DHealthcareDataset2.xlsx&wdOrigin=BROWSELINK">Health Care Dataset 2</a>
+
+1. **PatientID**: A unique identifier for each patient, corresponding to 'PatientID' in "HealthcareDataset1.xlsx". (Foreign Key)
+2. **Hospital**: The name of the hospital where the patient was treated.
+3. **DoctorName**: Name of the doctor who treated the patient.
+4. **RoomNumber**: The room number assigned to the patient.
+5. **DailyCost**: The daily cost of the patient's treatment.
+6. **TreatmentType**: Type of treatment provided.
+7. **RecoveryRating**: A rating of the patient's recovery (out of 10).
+
+<h3>Overall Objective:</h3>
+Create a comprehensive, interactive, and visually appealing Power BI dashboard to analyze healthcare data, identify trends, and support data-driven decision making.
+
+<h3>Specific Objectives:</h3>
+Data Visualization: Develop clear and informative visualizations for key metrics such as patient demographics, diagnoses, treatment costs, and recovery ratings.
+Dashboard Design: Construct a user-friendly dashboard with intuitive navigation and engaging visuals.
+Time Series Analysis: Incorporate time-based trends in patient admissions, length of stay, and other relevant metrics.
+Comparative Analysis: Enable comparison of hospital performance across various parameters like patient load, treatment costs, and recovery outcomes.
+Treatment Effectiveness Analysis: Visualize treatment effectiveness based on factors such as length of stay and recovery ratings.
+Insight Generation: Extract meaningful insights from the data and communicate them effectively through the dashboard.
+By achieving these objectives, the dashboard will provide valuable insights into healthcare operations, support performance improvement, and inform strategic decision-making.
