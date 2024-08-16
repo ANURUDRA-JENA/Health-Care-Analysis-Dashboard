@@ -6,6 +6,8 @@ serve as a tool to uncover and visualize important trends, such as the interplay
 hospital performance metrics. The analysis will provide invaluable insights, aiding healthcare providers in enhancing patient care and operational efficiency, and positioning HealthStat
 Solutions at the forefront of healthcare analytics.
 
+![Healthcare](https://github.com/ANURUDRA-JENA/Health-Care-Analysis-Dashboard/blob/b2dc4b6b56b1a7327ec30f4153be5a7def143d52/Assets/Designer%20(7).png)
+
 <h2>About the Data</h2>
 
 <a href = "https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Ffile.notion.so%2Ff%2Ff%2Fd1e1bc70-9ede-4c69-84fd-42c5605803a0%2Ff612ea2d-d0ea-4f03-9d9e-056baa3a6658%2FHealthcareDataset1.xlsx%3Ftable%3Dblock%26id%3Dbb025d31-0e9c-4e08-931a-8df1a7e7e201%26spaceId%3Dd1e1bc70-9ede-4c69-84fd-42c5605803a0%26expirationTimestamp%3D1723874400000%26signature%3DRWgauwtI1ehCwbPIQqxQcdAyA6ocC-2eVbR4oWfnDPo%26downloadName%3DHealthcareDataset1.xlsx&wdOrigin=BROWSELINK">Health Care Dataset 1</a>
@@ -43,3 +45,6 @@ Create a comprehensive, interactive, and visually appealing Power BI dashboard t
 <h4>Treatment Effectiveness Analysis:</h4> Visualize treatment effectiveness based on factors such as length of stay and recovery ratings.
 <h4>Insight Generation:</h4> Extract meaningful insights from the data and communicate them effectively through the dashboard.
 <p>By achieving these objectives, the dashboard will provide valuable insights into healthcare operations, support performance improvement, and inform strategic decision-making.</p>
+
+
+
