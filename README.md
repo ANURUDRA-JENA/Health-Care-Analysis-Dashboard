@@ -36,10 +36,10 @@ Solutions at the forefront of healthcare analytics.
 Create a comprehensive, interactive, and visually appealing Power BI dashboard to analyze healthcare data, identify trends, and support data-driven decision making.
 
 <h3>Specific Objectives:</h3>
-Data Visualization: Develop clear and informative visualizations for key metrics such as patient demographics, diagnoses, treatment costs, and recovery ratings.
-Dashboard Design: Construct a user-friendly dashboard with intuitive navigation and engaging visuals.
-Time Series Analysis: Incorporate time-based trends in patient admissions, length of stay, and other relevant metrics.
-Comparative Analysis: Enable comparison of hospital performance across various parameters like patient load, treatment costs, and recovery outcomes.
-Treatment Effectiveness Analysis: Visualize treatment effectiveness based on factors such as length of stay and recovery ratings.
-Insight Generation: Extract meaningful insights from the data and communicate them effectively through the dashboard.
-By achieving these objectives, the dashboard will provide valuable insights into healthcare operations, support performance improvement, and inform strategic decision-making.
+<h4>Data Visualization:</h4> Develop clear and informative visualizations for key metrics such as patient demographics, diagnoses, treatment costs, and recovery ratings.
+<h4>Dashboard Design:</h4> Construct a user-friendly dashboard with intuitive navigation and engaging visuals.
+<H4>Time Series Analysis:</H4> Incorporate time-based trends in patient admissions, length of stay, and other relevant metrics.
+<h4>Comparative Analysis:</h4> Enable comparison of hospital performance across various parameters like patient load, treatment costs, and recovery outcomes.
+<h4>Treatment Effectiveness Analysis:</h4> Visualize treatment effectiveness based on factors such as length of stay and recovery ratings.
+<h4>Insight Generation:</h4> Extract meaningful insights from the data and communicate them effectively through the dashboard.
+<p>By achieving these objectives, the dashboard will provide valuable insights into healthcare operations, support performance improvement, and inform strategic decision-making.</p>
