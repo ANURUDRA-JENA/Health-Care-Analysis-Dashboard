@@ -64,16 +64,29 @@ Feedbacks are welcome.</p>
 
 <H3>The Hospital Performance Analysis Report:</H3>
 
-![PBI1](https://github.com/ANURUDRA-JENA/Health-Care-Analysis-Dashboard/blob/980e4a7f930d3f05834e87130d781b4e85a47e93/Assets/Screenshot%202024-08-16%20090519.png)
+![PBI2](https://github.com/ANURUDRA-JENA/Health-Care-Analysis-Dashboard/blob/980e4a7f930d3f05834e87130d781b4e85a47e93/Assets/Screenshot%202024-08-16%20090519.png)
 
 <p>This report gives you insight about each and every hospital's performance that is present in the dataset. Also, since you can use the filters, you'll be able to<br>
 extract the desired specific information from the haystack.</p>
 
 <H3>The Time based Analysis Report:</H3>
 
-![PBI1](https://github.com/ANURUDRA-JENA/Health-Care-Analysis-Dashboard/blob/980e4a7f930d3f05834e87130d781b4e85a47e93/Assets/Screenshot%202024-08-16%20090519.png)
+![PBI3](https://github.com/ANURUDRA-JENA/Health-Care-Analysis-Dashboard/blob/befb3db7c458e0600bc6fccba176a4bead196b50/Assets/Screenshot%202024-08-16%20090542.png)
 
 <p>This report will be giving varoiuos insights with respect to time from different aspects of the industry and also can be filtered out along diagnoses and treatment types.</p>
+
+<H3>About the filters/slicers:</H3>
+
+![Filter1](https://github.com/ANURUDRA-JENA/Health-Care-Analysis-Dashboard/blob/befb3db7c458e0600bc6fccba176a4bead196b50/Assets/Screenshot%202024-08-16%20095024.png)
+<p>Click anywhere within the lighht green region except for icons or headers to see the filters panel which will come out of the nav-bar</p>
+
+![Filter2](https://github.com/ANURUDRA-JENA/Health-Care-Analysis-Dashboard/blob/befb3db7c458e0600bc6fccba176a4bead196b50/Assets/Screenshot%202024-08-16%20095052.png)
+
+<p>With the various filters/slicers which are synced across all the pages, you can get all the information you need(I believe so) and if you miss out on any features make sure to contact me on sny social media handles and provide feedbacks.This report will be giving varoiuos insights with respect to time from different aspects of the industry and also can be filtered out along diagnoses and treatment types.</p>
+
+
+
+<p>This project leverages PowerBI to perform an in-depth analysis of healthcare data, revealing critical insights into patient demographics, treatment patterns, hospital efficiency, and more.The interactive dashboard provides stakeholders with valuable, data-driven insights for enhancing healthcare operations and improving patient outcomes.</p>
 
 
 
