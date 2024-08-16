@@ -73,12 +73,12 @@ extract the desired specific information from the haystack.</p>
 
 ![PBI3](https://github.com/ANURUDRA-JENA/Health-Care-Analysis-Dashboard/blob/befb3db7c458e0600bc6fccba176a4bead196b50/Assets/Screenshot%202024-08-16%20090542.png)
 
-<p>This report will be giving varoiuos insights with respect to time from different aspects of the industry and also can be filtered out along diagnoses and treatment types.</p>
+<p>This report will be giving various insights with respect to time from different aspects of the industry and also can be filtered out along diagnoses and treatment types.</p>
 
 <H3>About the filters/slicers:</H3>
 
 ![Filter1](https://github.com/ANURUDRA-JENA/Health-Care-Analysis-Dashboard/blob/befb3db7c458e0600bc6fccba176a4bead196b50/Assets/Screenshot%202024-08-16%20095024.png)
-<p>Click anywhere within the lighht green region except for icons or headers to see the filters panel which will come out of the nav-bar</p>
+<p>Click anywhere within the lighht green region except for icons or headers to see the filters panel which will come out of the nav-bar. To go back to the dashboard by exiting the filters panel, you can click anywhere in the darker section below the filters panel.</p>
 
 ![Filter2](https://github.com/ANURUDRA-JENA/Health-Care-Analysis-Dashboard/blob/befb3db7c458e0600bc6fccba176a4bead196b50/Assets/Screenshot%202024-08-16%20095052.png)
 
