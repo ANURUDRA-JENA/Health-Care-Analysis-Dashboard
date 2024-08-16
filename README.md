@@ -44,7 +44,38 @@ Create a comprehensive, interactive, and visually appealing Power BI dashboard t
 <h4>Comparative Analysis:</h4> Enable comparison of hospital performance across various parameters like patient load, treatment costs, and recovery outcomes.
 <h4>Treatment Effectiveness Analysis:</h4> Visualize treatment effectiveness based on factors such as length of stay and recovery ratings.
 <h4>Insight Generation:</h4> Extract meaningful insights from the data and communicate them effectively through the dashboard.
+
+
 <p>By achieving these objectives, the dashboard will provide valuable insights into healthcare operations, support performance improvement, and inform strategic decision-making.</p>
+
+<p>After working on the dashboard I believe all the above objectives have been fulfilled. So I'd request you to kindly go through the below provided link to check the dashboard online.<br>
+Feedbacks are welcome.</p>
+
+<a href = "https://app.powerbi.com/view?r=eyJrIjoiMTM0ZjM5MzUtMTNjZi00YTM3LWI1MzEtMGMzMDA5NDIzMzU3IiwidCI6ImYxZTEwY2Q3LTJiYWYtNDJjZi04M2NhLWFjYWY1ZDg1NGE3YSJ9&pageName=df4a6b4ee95f9e556b16">Health Stat Dashboard</a>
+
+<p>You can also download the Dashboard raw files from this repo !</p>
+
+<h2>About the Dashboard:</h2>
+<H3>The Overview Report:</H3>
+
+![PBI1](https://github.com/ANURUDRA-JENA/Health-Care-Analysis-Dashboard/blob/980e4a7f930d3f05834e87130d781b4e85a47e93/Assets/Screenshot%202024-08-16%20090418.png)
+
+<p>This report shows a brief overview of the entire healthcare industry's performance in one page.<br>With all the slicers/filters you can pick the exact info/insight you need for the pinpoint data.</p>
+
+<H3>The Hospital Performance Analysis Report:</H3>
+
+![PBI1](https://github.com/ANURUDRA-JENA/Health-Care-Analysis-Dashboard/blob/980e4a7f930d3f05834e87130d781b4e85a47e93/Assets/Screenshot%202024-08-16%20090519.png)
+
+<p>This report gives you insight about each and every hospital's performance that is present in the dataset. Also, since you can use the filters, you'll be able to<br>
+extract the desired specific information from the haystack.</p>
+
+<H3>The Time based Analysis Report:</H3>
+
+![PBI1](https://github.com/ANURUDRA-JENA/Health-Care-Analysis-Dashboard/blob/980e4a7f930d3f05834e87130d781b4e85a47e93/Assets/Screenshot%202024-08-16%20090519.png)
+
+<p>This report will be giving varoiuos insights with respect to time from different aspects of the industry and also can be filtered out along diagnoses and treatment types.</p>
+
+
 
 
 
