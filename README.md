@@ -8,7 +8,7 @@ Solutions at the forefront of healthcare analytics.
 
 <h2>About the Data</h2>
 
-<iframe width="402" height="346" frameborder="0" scrolling="no" src="https://view.officeapps.live.com/op/embed.aspx?src=https%3A%2F%2Ffile%2Enotion%2Eso%3A443%2Ff%2Ff%2Fd1e1bc70%2D9ede%2D4c69%2D84fd%2D42c5605803a0%2Ff612ea2d%2Dd0ea%2D4f03%2D9d9e%2D056baa3a6658%2FHealthcareDataset1%2Exlsx%3Ftable%3Dblock%26id%3Dbb025d31%2D0e9c%2D4e08%2D931a%2D8df1a7e7e201%26spaceId%3Dd1e1bc70%2D9ede%2D4c69%2D84fd%2D42c5605803a0%26expirationTimestamp%3D1723874400000%26signature%3DRWgauwtI1ehCwbPIQqxQcdAyA6ocC%2D2eVbR4oWfnDPo%26downloadName%3DHealthcareDataset1%2Exlsx&wdAllowInteractivity=False&wdHideGridlines=True&wdHideHeaders=True&wdDownloadButton=True&wdInConfigurator=True&wdInConfigurator=True"></iframe>
+<a href = "https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Ffile.notion.so%2Ff%2Ff%2Fd1e1bc70-9ede-4c69-84fd-42c5605803a0%2Ff612ea2d-d0ea-4f03-9d9e-056baa3a6658%2FHealthcareDataset1.xlsx%3Ftable%3Dblock%26id%3Dbb025d31-0e9c-4e08-931a-8df1a7e7e201%26spaceId%3Dd1e1bc70-9ede-4c69-84fd-42c5605803a0%26expirationTimestamp%3D1723874400000%26signature%3DRWgauwtI1ehCwbPIQqxQcdAyA6ocC-2eVbR4oWfnDPo%26downloadName%3DHealthcareDataset1.xlsx&wdOrigin=BROWSELINK">Health Care Dataset 1</a>
 
 1. **PatientID**: A unique identifier for each patient. (Primary Key)
 2. **PatientName**: Name of the patient.
