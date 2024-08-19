@@ -10,7 +10,7 @@ Solutions at the forefront of healthcare analytics.
 
 <h2>About the Data</h2>
 
-<a href = "https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Ffile.notion.so%2Ff%2Ff%2Fd1e1bc70-9ede-4c69-84fd-42c5605803a0%2Ff612ea2d-d0ea-4f03-9d9e-056baa3a6658%2FHealthcareDataset1.xlsx%3Ftable%3Dblock%26id%3Dbb025d31-0e9c-4e08-931a-8df1a7e7e201%26spaceId%3Dd1e1bc70-9ede-4c69-84fd-42c5605803a0%26expirationTimestamp%3D1723874400000%26signature%3DRWgauwtI1ehCwbPIQqxQcdAyA6ocC-2eVbR4oWfnDPo%26downloadName%3DHealthcareDataset1.xlsx&wdOrigin=BROWSELINK">Health Care Dataset 1</a>
+<a href = "https://docs.google.com/spreadsheets/d/10N7vdy1POWZSqstrwO1_xnc0A064lvh2/edit?usp=sharing&ouid=112059855410816988579&rtpof=true&sd=true">Health Care Dataset 1</a>
 
 1. **PatientID**: A unique identifier for each patient. (Primary Key)
 2. **PatientName**: Name of the patient.
@@ -24,7 +24,7 @@ Solutions at the forefront of healthcare analytics.
 10. **TotalBill**: The total bill amount for the patient's treatment.
 11. **Full Prescription Details**: Detailed prescription information including medication names, dosages, frequency, and duration
 
-<a href = "https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Ffile.notion.so%2Ff%2Ff%2Fd1e1bc70-9ede-4c69-84fd-42c5605803a0%2F78856dc5-afc4-4b4d-a42d-f75a0affd3d7%2FHealthcareDataset2.xlsx%3Ftable%3Dblock%26id%3D73ff38d8-63e6-4408-9271-876fdc8b54e1%26spaceId%3Dd1e1bc70-9ede-4c69-84fd-42c5605803a0%26expirationTimestamp%3D1723874400000%26signature%3DIzQksbLcem9EMhFBsoOxzhwfkZdzdgOjktnHdpnoLIs%26downloadName%3DHealthcareDataset2.xlsx&wdOrigin=BROWSELINK">Health Care Dataset 2</a>
+<a href = "https://docs.google.com/spreadsheets/d/14kEt3mM1bEqNCxxpxN__HwlR3CLMSPDR/edit?usp=sharing&ouid=112059855410816988579&rtpof=true&sd=true">Health Care Dataset 2</a>
 
 1. **PatientID**: A unique identifier for each patient, corresponding to 'PatientID' in "HealthcareDataset1.xlsx". (Foreign Key)
 2. **Hospital**: The name of the hospital where the patient was treated.
