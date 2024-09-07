@@ -51,7 +51,7 @@ Create a comprehensive, interactive, and visually appealing Power BI dashboard t
 <p>After working on the dashboard I believe all the above objectives have been fulfilled. So I'd request you to kindly go through the below provided link to check the dashboard online.<br>
 Feedbacks are welcome.</p>
 
-<a href = "https://app.powerbi.com/view?r=eyJrIjoiMTM0ZjM5MzUtMTNjZi00YTM3LWI1MzEtMGMzMDA5NDIzMzU3IiwidCI6ImYxZTEwY2Q3LTJiYWYtNDJjZi04M2NhLWFjYWY1ZDg1NGE3YSJ9&pageName=df4a6b4ee95f9e556b16">Health Stat Dashboard</a>
+<a href = "https://app.powerbi.com/view?r=eyJrIjoiMTM0ZjM5MzUtMTNjZi00YTM3LWI1MzEtMGMzMDA5NDIzMzU3IiwidCI6ImYxZTEwY2Q3LTJiYWYtNDJjZi04M2NhLWFjYWY1ZDg1NGE3YSJ9&pageName=df4a6b4ee95f9e556b16" target="_blank">Health Stat Dashboard</a>
 
 <p>You can also download the Dashboard raw files from this repo !</p>
 
